@@ -1,1 +1,124 @@
-<mxfile host="www.draw.io" modified="2019-10-23T03:13:16.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" version="12.1.3" etag="b9Zm4mf3CNGA2fo4jylQ" type="github" pages="3"><diagram id="sLSvZDJQN0xsa1VrGQKB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-23T03:25:54.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="2dyvDMPsQb0DRXGGWKu2" version="12.1.3" type="github" pages="1">
+  <diagram id="sLSvZDJQN0xsa1VrGQKB" name="Page-1">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltidwY-Or0S8M1pPgaBE-14" target="ltidwY-Or0S8M1pPgaBE-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="140"/>
+              <mxPoint x="420" y="140"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-14" value="网吧" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltidwY-Or0S8M1pPgaBE-15" target="ltidwY-Or0S8M1pPgaBE-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="170"/>
+              <mxPoint x="580" y="170"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-29" value="采集数据" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-18">
+          <mxGeometry x="-0.1056" y="23" relative="1" as="geometry">
+            <mxPoint x="10.5" y="23" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-15" value="探针系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ltidwY-Or0S8M1pPgaBE-17" target="ltidwY-Or0S8M1pPgaBE-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="200"/>
+              <mxPoint x="740" y="200"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-30" value="传递数据" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-20">
+          <mxGeometry x="-0.2056" relative="1" as="geometry">
+            <mxPoint x="19.5" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-17" value="网吧3.4系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="230" as="sourcePoint"/>
+            <mxPoint x="1040" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-31" value="加密数据" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-22">
+          <mxGeometry x="-0.2722" y="-2" relative="1" as="geometry">
+            <mxPoint x="24.5" y="-2" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-19" value="rece系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1039.5" y="265" as="sourcePoint"/>
+            <mxPoint x="1219.5" y="265" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-32" value="解密解析打包" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-24">
+          <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
+            <mxPoint x="22.5" y="-1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-21" value="大数据系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1219.5" y="296" as="sourcePoint"/>
+            <mxPoint x="1399.5" y="296" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1340" y="296"/>
+              <mxPoint x="1340" y="296"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-33" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BC%A0%E9%80%92%E6%95%B0%E6%8D%AE%22%20style%3D%22text%3Bhtml%3D1%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BlabelBackgroundColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22770%22%20y%3D%22220%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2219.5%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-26">
+          <mxGeometry x="-0.35" y="2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-34" value="传递数据" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-26">
+          <mxGeometry x="-0.3722" y="-1" relative="1" as="geometry">
+            <mxPoint x="33.5" y="-1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-23" value="烽火" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1399.5" y="330" as="sourcePoint"/>
+            <mxPoint x="1579.5" y="330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-35" value="解析入库" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ltidwY-Or0S8M1pPgaBE-28">
+          <mxGeometry x="0.1389" y="1" relative="1" as="geometry">
+            <mxPoint x="-12.5" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-25" value="数据解析系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-27" value="网吧检查系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="70" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="ltidwY-Or0S8M1pPgaBE-36" value="数据流传递图" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="880" y="3" width="90" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
