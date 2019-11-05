@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-05T12:56:54.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="3GrOy-ES0eaHPYZfwKOr" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T13:02:34.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="509o-bfDMe4foHVOgnOU" version="12.2.0" type="github" pages="1">
   <diagram id="Lx2HElSrmVBKMVFlYuY2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -20,22 +20,22 @@
           <mxGeometry x="970" y="155" width="110" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--22" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="500" width="20" height="300" as="geometry"/>
+          <mxGeometry x="260" y="500" width="20" height="620" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--23" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Browser&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="500" width="100" height="300" as="geometry"/>
+          <mxGeometry x="370" y="500" width="100" height="640" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--24" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;Cas_server&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="500" width="100" height="300" as="geometry"/>
+          <mxGeometry x="550" y="500" width="100" height="630" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--26" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;App1&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="500" width="100" height="300" as="geometry"/>
+          <mxGeometry x="730" y="500" width="100" height="670" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="yO8bI9BDbrcVaBkgT3c--26">
           <mxGeometry x="45" y="110" width="10" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--28" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;App2&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="500" width="100" height="300" as="geometry"/>
+          <mxGeometry x="910" y="500" width="100" height="580" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--30" value="User" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="205" y="510" width="40" height="20" as="geometry"/>
@@ -51,12 +51,12 @@
             <mxPoint x="705" y="610" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yO8bI9BDbrcVaBkgT3c--35" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="yO8bI9BDbrcVaBkgT3c--33" parent="1" target="yO8bI9BDbrcVaBkgT3c--23">
+        <mxCell id="yO8bI9BDbrcVaBkgT3c--35" value="302 location: https://cas.com/cas/login?service=https://app1.com" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="yO8bI9BDbrcVaBkgT3c--33" parent="1" target="yO8bI9BDbrcVaBkgT3c--23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="705" y="686" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yO8bI9BDbrcVaBkgT3c--36" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+        <mxCell id="yO8bI9BDbrcVaBkgT3c--36" value="浏览器直接请求app1,返回带上参数重定向到cas" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="820" y="610" width="100" height="70" as="geometry"/>
         </mxCell>
       </root>
