@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-05T13:16:22.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="-H4O21oH_RmltfcsimrD" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T13:26:26.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="BJ2nclqpvtuZy3BWy1wA" version="12.2.0" type="github" pages="1">
   <diagram id="Lx2HElSrmVBKMVFlYuY2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -34,11 +34,25 @@
         <mxCell id="nu1dTn1aSJJgTt__rEKj-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="yO8bI9BDbrcVaBkgT3c--24">
           <mxGeometry x="45" y="270" width="10" height="80" as="geometry"/>
         </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="yO8bI9BDbrcVaBkgT3c--24">
+          <mxGeometry x="45" y="440" width="10" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="yO8bI9BDbrcVaBkgT3c--24">
+          <mxGeometry x="45" y="640" width="10" height="80" as="geometry"/>
+        </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--26" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;App1&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="500" width="100" height="1660" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="yO8bI9BDbrcVaBkgT3c--26" vertex="1">
           <mxGeometry x="45" y="110" width="10" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="yO8bI9BDbrcVaBkgT3c--26">
+          <mxGeometry x="45" y="610" width="10" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-18" value="https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="nu1dTn1aSJJgTt__rEKj-17" parent="yO8bI9BDbrcVaBkgT3c--26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-530" y="610" as="sourcePoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--28" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;App2&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1260" y="500" width="100" height="1540" as="geometry"/>
@@ -79,6 +93,27 @@
         </mxCell>
         <mxCell id="nu1dTn1aSJJgTt__rEKj-7" value="浏览器访问cas_server,无票据，cas返回login form" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="775" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-9" value="https://cas.com/cas/login?service=https://app1.com" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;exitX=1.1;exitY=0.434;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="nu1dTn1aSJJgTt__rEKj-8" parent="1" source="nu1dTn1aSJJgTt__rEKj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="940" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-10" value="302 location https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=1.2;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="nu1dTn1aSJJgTt__rEKj-8" parent="1" target="nu1dTn1aSJJgTt__rEKj-1">
+          <mxGeometry x="0.0433" y="-6" relative="1" as="geometry">
+            <mxPoint x="635" y="1016" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-12" value="使用用户名和密码访问cas_server,获取票据,保存到cookie中" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="940" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-19" value="cas https://cas.com/serviceValidate?service=https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2211" y="-2" relative="1" as="geometry">
+            <mxPoint x="716" y="1142" as="targetPoint"/>
+            <mxPoint x="1001" y="1142" as="sourcePoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
