@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-05T13:28:28.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="kKbleg16gdd3C6StwOK1" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T13:31:38.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="q6T9Z2CkszXM4Bk8dsl2" version="12.2.0" type="github" pages="1">
   <diagram id="Lx2HElSrmVBKMVFlYuY2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="45" y="110" width="10" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="nu1dTn1aSJJgTt__rEKj-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="yO8bI9BDbrcVaBkgT3c--26">
-          <mxGeometry x="45" y="610" width="10" height="340" as="geometry"/>
+          <mxGeometry x="45" y="610" width="10" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="nu1dTn1aSJJgTt__rEKj-18" value="https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="nu1dTn1aSJJgTt__rEKj-17" parent="yO8bI9BDbrcVaBkgT3c--26">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +99,7 @@
             <mxPoint x="635" y="940" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nu1dTn1aSJJgTt__rEKj-10" value="302 location https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=1.2;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="nu1dTn1aSJJgTt__rEKj-8" parent="1" target="nu1dTn1aSJJgTt__rEKj-1">
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-10" value="set cookie:castgc&lt;br&gt;302 location https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=1.2;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="nu1dTn1aSJJgTt__rEKj-8" parent="1" target="nu1dTn1aSJJgTt__rEKj-1">
           <mxGeometry x="0.0433" y="-6" relative="1" as="geometry">
             <mxPoint x="635" y="1016" as="targetPoint"/>
             <mxPoint as="offset"/>
@@ -123,6 +123,12 @@
               <mxPoint x="800" y="1217"/>
             </Array>
             <mxPoint x="-20" y="14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-23" value="set cookie:jsessionid&lt;br&gt;302 location: https://app.com/" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.5;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nu1dTn1aSJJgTt__rEKj-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="1260" as="sourcePoint"/>
+            <mxPoint x="920" y="1260" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
