@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T02:30:58.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="SkY73UGsG1EaaPvZ5BJh" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-07T02:34:58.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="TOi4kVBpZTGY52trjE5Y" version="12.2.0" type="github" pages="1">
   <diagram id="Lx2HElSrmVBKMVFlYuY2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nu1dTn1aSJJgTt__rEKj-7" value="浏览器访问cas_server,无票据，cas返回login form" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-7" value="浏览器访问cas_server,无session，cas返回login form" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="775" width="100" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="nu1dTn1aSJJgTt__rEKj-9" value="https://cas.com/cas/login?service=https://app1.com" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="nu1dTn1aSJJgTt__rEKj-8" parent="1" source="nu1dTn1aSJJgTt__rEKj-1">
@@ -116,8 +116,8 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nu1dTn1aSJJgTt__rEKj-12" value="使用用户名和密码访问cas_server,获取票据,保存到cookie中" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="760" y="940" width="100" height="70" as="geometry"/>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-12" value="使用用户名和密码访问cas_server,得到cas的session，获取票据,保存到cookie中" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="940" width="150" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="nu1dTn1aSJJgTt__rEKj-19" value="cas https://cas.com/serviceValidate?service=https://app1.com/?ticket=ST-6666" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;entryX=1.1;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.2211" y="-2" relative="1" as="geometry">
