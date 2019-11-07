@@ -1,23 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-11-07T08:16:03.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="9aqz1wAL-JcrppOCTWT4" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-07T08:16:50.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="jGKDnQAQJs6S172pQnO2" version="12.2.0" type="github" pages="1">
   <diagram id="Lx2HElSrmVBKMVFlYuY2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="150" width="30" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="yO8bI9BDbrcVaBkgT3c--2" value="Browser" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="155" width="110" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="yO8bI9BDbrcVaBkgT3c--3" value="Cas_server" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="155" width="110" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="yO8bI9BDbrcVaBkgT3c--8" value="App1" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="155" width="110" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="yO8bI9BDbrcVaBkgT3c--10" value="App2" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="155" width="110" height="50" as="geometry"/>
+          <mxGeometry x="260" y="2700" width="20" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="yO8bI9BDbrcVaBkgT3c--22" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="500" width="20" height="2190" as="geometry"/>
