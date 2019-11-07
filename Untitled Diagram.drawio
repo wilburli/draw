@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-07T08:16:50.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="jGKDnQAQJs6S172pQnO2" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-07T08:17:36.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="FQZBBoIbdw7T4N84BD4p" version="12.2.0" type="github" pages="1">
   <diagram id="Lx2HElSrmVBKMVFlYuY2" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -283,6 +283,9 @@
         </mxCell>
         <mxCell id="nu1dTn1aSJJgTt__rEKj-71" value="App2" style="html=1;strokeWidth=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1255" y="2700" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="nu1dTn1aSJJgTt__rEKj-72" value="Cas 单点登录" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="665" y="370" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
