@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T09:39:30.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="crVHkHnZTIxDAVJn74nt" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T09:40:20.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="lQ3rJqSzpOMv9JNZFviv" version="13.6.5" type="github">
   <diagram id="ic-Xao-H3e-r-X_H90dc" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
               <mxPoint x="190" y="70" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xlX6GbU6lDLtJ09rWrMj-28" value="es 客户端节点都能读取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
