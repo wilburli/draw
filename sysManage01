@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T06:42:31.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="tN81_rx2FtNYwzu_LB9-" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T06:48:12.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="1By87MBPmFmpZWOyaO4i" version="13.8.0" type="github">
   <diagram id="MLrwlFQMTYHwyrD-VcAs" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_05UEHLRxECOXRqmltRv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-1" target="_05UEHLRxECOXRqmltRv-2">
+        <mxCell id="_05UEHLRxECOXRqmltRv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-1" target="_05UEHLRxECOXRqmltRv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-1" target="_05UEHLRxECOXRqmltRv-4">
+        <mxCell id="_05UEHLRxECOXRqmltRv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-1" target="_05UEHLRxECOXRqmltRv-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="160" as="sourcePoint" />
             <Array as="points">
@@ -16,31 +16,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-1" value="招投标法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_05UEHLRxECOXRqmltRv-1" value="招投标法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-2" target="_05UEHLRxECOXRqmltRv-6">
+        <mxCell id="_05UEHLRxECOXRqmltRv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-2" target="_05UEHLRxECOXRqmltRv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-1" target="_05UEHLRxECOXRqmltRv-10">
+        <mxCell id="_05UEHLRxECOXRqmltRv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-1" target="_05UEHLRxECOXRqmltRv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-2" value="招投标法的适用范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_05UEHLRxECOXRqmltRv-2" value="招投标法的适用范围" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-4" target="_05UEHLRxECOXRqmltRv-8">
+        <mxCell id="_05UEHLRxECOXRqmltRv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" edge="1" parent="1" source="_05UEHLRxECOXRqmltRv-4" target="_05UEHLRxECOXRqmltRv-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-4" value="为什么要有招投标法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_05UEHLRxECOXRqmltRv-4" value="为什么要有招投标法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-6" value="境内，适用本法" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_05UEHLRxECOXRqmltRv-6" value="境内，适用本法" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-8" value="为了规范招投标活动，维护权益，提供经济效益，保证项目质量" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_05UEHLRxECOXRqmltRv-8" value="为了规范招投标活动，维护权益，提供经济效益，保证项目质量" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="40" width="206" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_05UEHLRxECOXRqmltRv-10" value="招投标法的适用类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_05UEHLRxECOXRqmltRv-10" value="招投标法的适用类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=0;snapToPoint=0;fixDash=0;editable=1;backgroundOutline=0;metaEdit=0;movable=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
